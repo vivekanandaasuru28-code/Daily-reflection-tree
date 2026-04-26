@@ -13,30 +13,27 @@ Because of this lack of structure:
 - Progress is not measurable  
 - There is no continuous improvement system
 - Clean version:
-START
-↓
-Did I complete my commitments?
+1. Did I complete my commitments?
+   YES → Step 2
+   NO → Step 3
 
-→ YES → Was output high quality?
-        → YES → EFFECTIVE DAY
-        → NO → Gap Analysis
+2. Was output high quality?
+   YES → EFFECTIVE DAY
+   NO → Step 3
 
-→ NO → Gap Analysis
+3. Gap Analysis:
+   - Clarity = UNCLEAR → Clarity Gap
+   - Time Utilization < 5 → Execution Gap
+   - Distraction = HIGH → Discipline Gap
+   - Else → Skill Gap
 
-Gap Analysis:
-- Clarity unclear → Clarity Gap
-- Time < 5 → Execution Gap
-- Distraction high → Discipline Gap
-- Else → Skill Gap
-
-Actions:
-- Clarity → Break task into smaller steps
-- Execution → Time block tasks
-- Discipline → Remove distractions
-- Skill → Learn missing skills
+4. Actions:
+   - Clarity Gap → Break task into smaller steps
+   - Execution Gap → Time block tasks
+   - Discipline Gap → Remove distractions
+   - Skill Gap → Learn missing skills
 
 END
-
 ---
 
 ## 2. Objective
