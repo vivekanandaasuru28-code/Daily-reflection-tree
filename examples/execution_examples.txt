@@ -1,1 +1,50 @@
+Case 1:
+Input:
+- Commitments Completed: NO
+- Output Quality: LOW
+- Time Utilization: 4
+- Distraction Level: HIGH
+- Clarity: CLEAR
 
+Execution:
+Step 1 → Commitments NO → Move to Gap Analysis  
+Step 2 → Clarity CLEAR → Not Clarity Gap  
+Step 3 → Time Utilization < 5 → Possible Execution Gap  
+Step 4 → Distraction HIGH → Discipline Gap  
+
+Output:
+Discipline Gap → Action: Remove distractions (block phone usage)
+
+--------------------------------------------------
+
+Case 2:
+Input:
+- Commitments Completed: YES
+- Output Quality: HIGH
+- Time Utilization: 8
+- Distraction Level: LOW
+- Clarity: CLEAR
+
+Execution:
+Step 1 → Commitments YES  
+Step 2 → Output HIGH → Effective Day  
+
+Output:
+Effective Day → Continue same workflow
+
+--------------------------------------------------
+
+Case 3:
+Input:
+- Commitments Completed: NO
+- Output Quality: LOW
+- Time Utilization: 6
+- Distraction Level: LOW
+- Clarity: UNCLEAR
+
+Execution:
+Step 1 → Commitments NO → Gap Analysis  
+Step 2 → Clarity UNCLEAR → Clarity Gap  
+
+Output:
+Clarity Gap → Action: Break tasks into smaller steps before starting
