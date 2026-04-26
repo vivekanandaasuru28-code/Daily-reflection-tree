@@ -12,7 +12,7 @@ Because of this lack of structure:
 - Mistakes are repeated  
 - Progress is not measurable  
 - There is no continuous improvement system
-    Clean version:
+- Clean version:
 START
 ↓
 Did I complete my commitments?
